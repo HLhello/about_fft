@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:Xidian university 
-// Engineer: Chang Xuyang 
-// 
-// Create Date: 2016/10/30 19:31:25
-// Design Name: fft_64
-// Module Name: fft_64
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: complete the work of fft_128
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 module fft_128_ctr(
 clk,

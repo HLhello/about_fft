@@ -1,23 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:Xidian university 
-// Engineer: Chang Xuyang 
-// 
-// Create Date: 2016/10/30 13:52:15
-// Design Name: butterfly2
-// Module Name: butterfly2
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: complete the calculation of butterfly
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps 
 
 
 module butterfly2(

@@ -1,22 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:Xidian university 
-// Engineer: Chang Xuyang 
-// 
-// Create Date: 2016/10/30 17:28:22
-// Design Name: fft_128
-// Module Name: fft_128
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: complete the work of fft_128
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+`timescale 1ns / 1ps 
 //////////////////////////////////////////////////////////////////////////////////
 module fft_insert128(
 	clk,  ///

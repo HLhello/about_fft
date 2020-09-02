@@ -1,23 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:Xidian university 
-// Engineer: Chang Xuyang
-// 
-// Create Date: 2016/10/29 13:28:12
-// Design Name: tw_mult2
-// Module Name: tw_mult2
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: complete the work of dinb*W
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps 
 
 module tw_mult2(
 clk,

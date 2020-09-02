@@ -1,23 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:Xidian university 
-// Engineer: Chang Xuyang 
-// 
-// Create Date: 2016/10/30 18:42:43
-// Design Name: fft_ram_ad
-// Module Name: fft_ram_ad
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: generate the address of fft_ram_2ports
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps 
 
 module fft_ram_ad(
 clk,
